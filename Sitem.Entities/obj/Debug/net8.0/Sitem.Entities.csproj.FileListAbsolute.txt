@@ -1,0 +1,14 @@
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\bin\Debug\net8.0\Sitem.Entities.deps.json
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\bin\Debug\net8.0\Sitem.Entities.runtimeconfig.json
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\bin\Debug\net8.0\Sitem.Entities.dll
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\bin\Debug\net8.0\Sitem.Entities.pdb
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.csproj.AssemblyReference.cache
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.AssemblyInfoInputs.cache
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.AssemblyInfo.cs
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.dll
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\refint\Sitem.Entities.dll
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.pdb
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\Sitem.Entities.genruntimeconfig.cache
+C:\Users\emrea\source\repos\Sitem\Sitem.Entities\obj\Debug\net8.0\ref\Sitem.Entities.dll
